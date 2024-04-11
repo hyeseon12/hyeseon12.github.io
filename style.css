@@ -1,0 +1,50 @@
+.mainbox{
+    width: 800px;
+    margin: auto;
+    padding: 25px;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+h2{
+    margin: 0;
+}
+
+
+.sub-box{
+    margin-bottom: 30px;
+}
+.title-box{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+.title-box-text{
+    margin: 25px;
+}
+.job-text{
+    color: coral;
+    font-style: italic;
+}
+.float{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+}
+.section-title{
+    border-bottom: 1px solid black;
+}
+.desc-text{
+    margin-top: 0;
+}
+
+
+.sns{
+    display: flex;
+    justify-content: flex-end;
+}
+.sns img{
+    margin: 5px;
+}
+footer{
+    text-align: center;
+}
